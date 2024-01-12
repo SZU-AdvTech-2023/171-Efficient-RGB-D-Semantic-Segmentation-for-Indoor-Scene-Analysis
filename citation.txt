@@ -1,0 +1,7 @@
+@inproceedings{REPO171,
+    author = "Seichter, Daniel and Kohler, Mona and Lewandowski, Benjamin and Wengefeld, Tim and Gross, Horst-Michael",
+    booktitle = "2021 IEEE International Conference on Robotics and Automation (ICRA)",
+    pages = "13525-13531",
+    title = "{Efficient RGB-D Semantic Segmentation for Indoor Scene Analysis}",
+    year = "2021"
+}
